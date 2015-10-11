@@ -1,0 +1,11 @@
+Url;ElapsedAvg
+http://www.mva2015streamanalytics.com/api/B;300
+http://www.mva2015streamanalytics.com/api/A;200
+http://www.mva2015streamanalytics.com/api/C;500
+http://www.mva2015streamanalytics.com/api/E;350
+http://www.mva2015streamanalytics.com/api/D;250
+http://www.sqlsatexpo.com/api/B;300
+http://www.sqlsatexpo.com/api/A;200
+http://www.sqlsatexpo.com/api/C;500
+http://www.sqlsatexpo.com/api/E;350
+http://www.sqlsatexpo.com/api/D;250
